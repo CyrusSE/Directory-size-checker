@@ -1,6 +1,11 @@
 # Directory-size-checker
 A Python script that calculates the total size of files and folders in a directory. 
 
+## How to use:
+```
+- Run the python script in the target directory.
+```
+
 ## Output Example:
 ```
 Apex Legends: 72.77 GB
